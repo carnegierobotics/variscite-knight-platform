@@ -30,7 +30,7 @@
   <project remote="yocto"     revision="5be54854139acb4796000478394afd66de0792c1" upstream="kirkstone"   name="meta-virtualization"     path="sources/meta-virtualization"/>
   <project remote="variscite" revision="7784b74fe02331175fbb11ac7e7efd50d30a5fd1" upstream="kirkstone"   name="meta-variscite-hab"      path="sources/meta-variscite-hab"/>
   <project remote="variscite" revision="85815c2d3f28f2d64f7eadb6b8ee306d7f8761a3" upstream="kirkstone"   name="meta-variscite-bsp"      path="sources/meta-variscite-bsp"/>
-  <project remote="crl" revision="3c901a22a35a36525fd395fd569df7b8887564c6" upstream="master"   name="meta-knight"      path="sources/meta-knight">
+  <project remote="crl" revision="99263dbff7e9e7856496e23a1b70438719aedb69" upstream="master"   name="meta-knight"      path="sources/meta-knight">
     <linkfile dest="sources/base" src="base"/>
     <linkfile dest="README" src="base/README"/>
     <linkfile dest="setup-environment" src="base/setup-environment"/>
